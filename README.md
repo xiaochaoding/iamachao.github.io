@@ -1,2 +1,1 @@
-# iamxiaochao.github.io
-阿超的个人微博
+学习用它，一步步来，一步步积累
